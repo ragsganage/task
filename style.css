@@ -8,7 +8,7 @@ body{
     min-height:100vh;
     transition: 0.5s;
     transition-timing-function: ease-in;
-    background-image: linear-gradient(to right bottom, rgb(255, 128, 128), #ffedbca8);
+    background-image: linear-gradient(to right bottom, rgb(13, 5, 49), #ffedbca8);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,7 +30,7 @@ body{
 }
 .fa-quote-left, .fa-quote-right {
     font-size: 35px;
-    color: rgb(179, 0, 0);
+    color: rgb(152, 0, 179);
 }
 .quote
 {
@@ -85,5 +85,5 @@ hr {
 }
 .container:hover
 {
-    box-shadow: 0 10px 10px rgb(230, 0, 0);
+    box-shadow: 0 10px 10px rgb(225, 199, 221);
 }
